@@ -1,0 +1,88 @@
+[2025-08-09T16:09:56.234+0000] {processor.py:157} INFO - Started process (PID=199) to work on /opt/airflow/dags/dac_coder/advertising/dag.py
+[2025-08-09T16:09:56.235+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/dac_coder/advertising/dag.py for tasks to queue
+[2025-08-09T16:09:56.237+0000] {logging_mixin.py:154} INFO - [2025-08-09T16:09:56.236+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/dac_coder/advertising/dag.py
+[2025-08-09T16:09:56.351+0000] {processor.py:839} INFO - DAG(s) dict_keys(['quote_and_hello_dag']) retrieved from /opt/airflow/dags/dac_coder/advertising/dag.py
+[2025-08-09T16:09:56.715+0000] {logging_mixin.py:154} INFO - [2025-08-09T16:09:56.715+0000] {manager.py:499} INFO - Created Permission View: %s
+[2025-08-09T16:09:56.729+0000] {logging_mixin.py:154} INFO - [2025-08-09T16:09:56.729+0000] {manager.py:499} INFO - Created Permission View: %s
+[2025-08-09T16:09:56.741+0000] {logging_mixin.py:154} INFO - [2025-08-09T16:09:56.740+0000] {manager.py:499} INFO - Created Permission View: %s
+[2025-08-09T16:09:56.741+0000] {logging_mixin.py:154} INFO - [2025-08-09T16:09:56.741+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-08-09T16:09:56.761+0000] {logging_mixin.py:154} INFO - [2025-08-09T16:09:56.761+0000] {dag.py:2963} INFO - Creating ORM DAG for quote_and_hello_dag
+[2025-08-09T16:09:56.774+0000] {logging_mixin.py:154} INFO - [2025-08-09T16:09:56.774+0000] {dag.py:3722} INFO - Setting next_dagrun for quote_and_hello_dag to 2025-08-08T16:09:56.774273+00:00, run_after=2025-08-09T16:09:56.774273+00:00
+[2025-08-09T16:09:56.818+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/dac_coder/advertising/dag.py took 0.588 seconds
+[2025-08-09T16:10:29.017+0000] {processor.py:157} INFO - Started process (PID=211) to work on /opt/airflow/dags/dac_coder/advertising/dag.py
+[2025-08-09T16:10:29.072+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/dac_coder/advertising/dag.py for tasks to queue
+[2025-08-09T16:10:29.080+0000] {logging_mixin.py:154} INFO - [2025-08-09T16:10:29.076+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/dac_coder/advertising/dag.py
+[2025-08-09T16:10:29.415+0000] {processor.py:839} INFO - DAG(s) dict_keys(['quote_and_hello_dag']) retrieved from /opt/airflow/dags/dac_coder/advertising/dag.py
+[2025-08-09T16:10:29.563+0000] {logging_mixin.py:154} INFO - [2025-08-09T16:10:29.563+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-08-09T16:10:29.749+0000] {logging_mixin.py:154} INFO - [2025-08-09T16:10:29.749+0000] {dag.py:3722} INFO - Setting next_dagrun for quote_and_hello_dag to 2025-08-08T16:10:29.745330+00:00, run_after=2025-08-09T16:10:29.745330+00:00
+[2025-08-09T16:10:29.844+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/dac_coder/advertising/dag.py took 0.920 seconds
+[2025-08-09T16:11:00.246+0000] {processor.py:157} INFO - Started process (PID=223) to work on /opt/airflow/dags/dac_coder/advertising/dag.py
+[2025-08-09T16:11:00.254+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/dac_coder/advertising/dag.py for tasks to queue
+[2025-08-09T16:11:00.266+0000] {logging_mixin.py:154} INFO - [2025-08-09T16:11:00.258+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/dac_coder/advertising/dag.py
+[2025-08-09T16:11:00.429+0000] {processor.py:839} INFO - DAG(s) dict_keys(['quote_and_hello_dag']) retrieved from /opt/airflow/dags/dac_coder/advertising/dag.py
+[2025-08-09T16:11:00.737+0000] {logging_mixin.py:154} INFO - [2025-08-09T16:11:00.736+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-08-09T16:11:00.982+0000] {logging_mixin.py:154} INFO - [2025-08-09T16:11:00.981+0000] {dag.py:3722} INFO - Setting next_dagrun for quote_and_hello_dag to 2025-08-08T16:11:00.974639+00:00, run_after=2025-08-09T16:11:00.974639+00:00
+[2025-08-09T16:11:01.088+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/dac_coder/advertising/dag.py took 0.898 seconds
+[2025-08-09T16:11:31.355+0000] {processor.py:157} INFO - Started process (PID=234) to work on /opt/airflow/dags/dac_coder/advertising/dag.py
+[2025-08-09T16:11:31.390+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/dac_coder/advertising/dag.py for tasks to queue
+[2025-08-09T16:11:31.391+0000] {logging_mixin.py:154} INFO - [2025-08-09T16:11:31.391+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/dac_coder/advertising/dag.py
+[2025-08-09T16:11:31.435+0000] {processor.py:839} INFO - DAG(s) dict_keys(['quote_and_hello_dag']) retrieved from /opt/airflow/dags/dac_coder/advertising/dag.py
+[2025-08-09T16:11:31.496+0000] {logging_mixin.py:154} INFO - [2025-08-09T16:11:31.495+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-08-09T16:11:31.518+0000] {logging_mixin.py:154} INFO - [2025-08-09T16:11:31.518+0000] {dag.py:3722} INFO - Setting next_dagrun for quote_and_hello_dag to 2025-08-08T16:11:31.518046+00:00, run_after=2025-08-09T16:11:31.518046+00:00
+[2025-08-09T16:11:31.549+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/dac_coder/advertising/dag.py took 0.197 seconds
+[2025-08-09T16:12:01.869+0000] {processor.py:157} INFO - Started process (PID=246) to work on /opt/airflow/dags/dac_coder/advertising/dag.py
+[2025-08-09T16:12:01.871+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/dac_coder/advertising/dag.py for tasks to queue
+[2025-08-09T16:12:01.874+0000] {logging_mixin.py:154} INFO - [2025-08-09T16:12:01.874+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/dac_coder/advertising/dag.py
+[2025-08-09T16:12:01.955+0000] {processor.py:839} INFO - DAG(s) dict_keys(['quote_and_hello_dag']) retrieved from /opt/airflow/dags/dac_coder/advertising/dag.py
+[2025-08-09T16:12:02.045+0000] {logging_mixin.py:154} INFO - [2025-08-09T16:12:02.044+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-08-09T16:12:02.109+0000] {logging_mixin.py:154} INFO - [2025-08-09T16:12:02.109+0000] {dag.py:3722} INFO - Setting next_dagrun for quote_and_hello_dag to 2025-08-08T16:12:02.108766+00:00, run_after=2025-08-09T16:12:02.108766+00:00
+[2025-08-09T16:12:02.194+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/dac_coder/advertising/dag.py took 0.339 seconds
+[2025-08-09T16:12:32.700+0000] {processor.py:157} INFO - Started process (PID=258) to work on /opt/airflow/dags/dac_coder/advertising/dag.py
+[2025-08-09T16:12:32.701+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/dac_coder/advertising/dag.py for tasks to queue
+[2025-08-09T16:12:32.702+0000] {logging_mixin.py:154} INFO - [2025-08-09T16:12:32.701+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/dac_coder/advertising/dag.py
+[2025-08-09T16:12:32.729+0000] {processor.py:839} INFO - DAG(s) dict_keys(['quote_and_hello_dag']) retrieved from /opt/airflow/dags/dac_coder/advertising/dag.py
+[2025-08-09T16:12:32.767+0000] {logging_mixin.py:154} INFO - [2025-08-09T16:12:32.767+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-08-09T16:12:32.797+0000] {logging_mixin.py:154} INFO - [2025-08-09T16:12:32.797+0000] {dag.py:3722} INFO - Setting next_dagrun for quote_and_hello_dag to 2025-08-08T16:12:32.797205+00:00, run_after=2025-08-09T16:12:32.797205+00:00
+[2025-08-09T16:12:32.821+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/dac_coder/advertising/dag.py took 0.125 seconds
+[2025-08-09T16:13:02.883+0000] {processor.py:157} INFO - Started process (PID=270) to work on /opt/airflow/dags/dac_coder/advertising/dag.py
+[2025-08-09T16:13:02.884+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/dac_coder/advertising/dag.py for tasks to queue
+[2025-08-09T16:13:02.885+0000] {logging_mixin.py:154} INFO - [2025-08-09T16:13:02.885+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/dac_coder/advertising/dag.py
+[2025-08-09T16:13:02.911+0000] {processor.py:839} INFO - DAG(s) dict_keys(['quote_and_hello_dag']) retrieved from /opt/airflow/dags/dac_coder/advertising/dag.py
+[2025-08-09T16:13:02.948+0000] {logging_mixin.py:154} INFO - [2025-08-09T16:13:02.947+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-08-09T16:13:02.976+0000] {logging_mixin.py:154} INFO - [2025-08-09T16:13:02.976+0000] {dag.py:3722} INFO - Setting next_dagrun for quote_and_hello_dag to 2025-08-08T16:13:02.975921+00:00, run_after=2025-08-09T16:13:02.975921+00:00
+[2025-08-09T16:13:03.014+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/dac_coder/advertising/dag.py took 0.136 seconds
+[2025-08-09T16:13:33.217+0000] {processor.py:157} INFO - Started process (PID=282) to work on /opt/airflow/dags/dac_coder/advertising/dag.py
+[2025-08-09T16:13:33.219+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/dac_coder/advertising/dag.py for tasks to queue
+[2025-08-09T16:13:33.220+0000] {logging_mixin.py:154} INFO - [2025-08-09T16:13:33.219+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/dac_coder/advertising/dag.py
+[2025-08-09T16:13:33.247+0000] {processor.py:839} INFO - DAG(s) dict_keys(['quote_and_hello_dag']) retrieved from /opt/airflow/dags/dac_coder/advertising/dag.py
+[2025-08-09T16:13:33.286+0000] {logging_mixin.py:154} INFO - [2025-08-09T16:13:33.286+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-08-09T16:13:33.309+0000] {logging_mixin.py:154} INFO - [2025-08-09T16:13:33.309+0000] {dag.py:3722} INFO - Setting next_dagrun for quote_and_hello_dag to 2025-08-08T16:13:33.308646+00:00, run_after=2025-08-09T16:13:33.308646+00:00
+[2025-08-09T16:13:33.333+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/dac_coder/advertising/dag.py took 0.120 seconds
+[2025-08-09T16:14:03.468+0000] {processor.py:157} INFO - Started process (PID=294) to work on /opt/airflow/dags/dac_coder/advertising/dag.py
+[2025-08-09T16:14:03.470+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/dac_coder/advertising/dag.py for tasks to queue
+[2025-08-09T16:14:03.473+0000] {logging_mixin.py:154} INFO - [2025-08-09T16:14:03.472+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/dac_coder/advertising/dag.py
+[2025-08-09T16:14:03.523+0000] {processor.py:839} INFO - DAG(s) dict_keys(['quote_and_hello_dag']) retrieved from /opt/airflow/dags/dac_coder/advertising/dag.py
+[2025-08-09T16:14:03.598+0000] {logging_mixin.py:154} INFO - [2025-08-09T16:14:03.598+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-08-09T16:14:03.624+0000] {logging_mixin.py:154} INFO - [2025-08-09T16:14:03.623+0000] {dag.py:3722} INFO - Setting next_dagrun for quote_and_hello_dag to 2025-08-08T16:14:03.623665+00:00, run_after=2025-08-09T16:14:03.623665+00:00
+[2025-08-09T16:14:03.644+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/dac_coder/advertising/dag.py took 0.180 seconds
+[2025-08-09T16:14:33.718+0000] {processor.py:157} INFO - Started process (PID=306) to work on /opt/airflow/dags/dac_coder/advertising/dag.py
+[2025-08-09T16:14:33.719+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/dac_coder/advertising/dag.py for tasks to queue
+[2025-08-09T16:14:33.720+0000] {logging_mixin.py:154} INFO - [2025-08-09T16:14:33.720+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/dac_coder/advertising/dag.py
+[2025-08-09T16:14:33.745+0000] {processor.py:839} INFO - DAG(s) dict_keys(['quote_and_hello_dag']) retrieved from /opt/airflow/dags/dac_coder/advertising/dag.py
+[2025-08-09T16:14:33.785+0000] {logging_mixin.py:154} INFO - [2025-08-09T16:14:33.785+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-08-09T16:14:33.817+0000] {logging_mixin.py:154} INFO - [2025-08-09T16:14:33.817+0000] {dag.py:3722} INFO - Setting next_dagrun for quote_and_hello_dag to 2025-08-08T16:14:33.816871+00:00, run_after=2025-08-09T16:14:33.816871+00:00
+[2025-08-09T16:14:33.848+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/dac_coder/advertising/dag.py took 0.133 seconds
+[2025-08-09T16:15:04.872+0000] {processor.py:157} INFO - Started process (PID=318) to work on /opt/airflow/dags/dac_coder/advertising/dag.py
+[2025-08-09T16:15:04.874+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/dac_coder/advertising/dag.py for tasks to queue
+[2025-08-09T16:15:04.875+0000] {logging_mixin.py:154} INFO - [2025-08-09T16:15:04.874+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/dac_coder/advertising/dag.py
+[2025-08-09T16:15:04.991+0000] {processor.py:839} INFO - DAG(s) dict_keys(['quote_and_hello_dag']) retrieved from /opt/airflow/dags/dac_coder/advertising/dag.py
+[2025-08-09T16:15:05.072+0000] {logging_mixin.py:154} INFO - [2025-08-09T16:15:05.071+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-08-09T16:15:05.121+0000] {logging_mixin.py:154} INFO - [2025-08-09T16:15:05.120+0000] {dag.py:3722} INFO - Setting next_dagrun for quote_and_hello_dag to 2025-08-08T16:15:05.119150+00:00, run_after=2025-08-09T16:15:05.119150+00:00
+[2025-08-09T16:15:05.174+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/dac_coder/advertising/dag.py took 0.341 seconds
+[2025-08-09T16:15:35.415+0000] {processor.py:157} INFO - Started process (PID=330) to work on /opt/airflow/dags/dac_coder/advertising/dag.py
+[2025-08-09T16:15:35.416+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/dac_coder/advertising/dag.py for tasks to queue
+[2025-08-09T16:15:35.416+0000] {logging_mixin.py:154} INFO - [2025-08-09T16:15:35.416+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/dac_coder/advertising/dag.py
+[2025-08-09T16:15:35.452+0000] {processor.py:839} INFO - DAG(s) dict_keys(['quote_and_hello_dag']) retrieved from /opt/airflow/dags/dac_coder/advertising/dag.py
+[2025-08-09T16:15:35.496+0000] {logging_mixin.py:154} INFO - [2025-08-09T16:15:35.495+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-08-09T16:15:35.548+0000] {logging_mixin.py:154} INFO - [2025-08-09T16:15:35.548+0000] {dag.py:3722} INFO - Setting next_dagrun for quote_and_hello_dag to 2025-08-08T16:15:35.547756+00:00, run_after=2025-08-09T16:15:35.547756+00:00
+[2025-08-09T16:15:35.592+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/dac_coder/advertising/dag.py took 0.183 seconds
