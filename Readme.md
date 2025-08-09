@@ -1,3 +1,4 @@
 Tôi là Đắc
 nguyên anh đắc
-AGe 24
+AGe 267
+toi la ai
