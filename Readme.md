@@ -1,5 +1,2 @@
-Tôi là Đắc
-nguyên anh đắc
-age 25
-toi la ai
-data engineer
+Author: Nguyen Anh Dac
+Description: This project is used to practice code with git
